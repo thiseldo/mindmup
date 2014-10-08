@@ -22,6 +22,10 @@
             "3": {
               "title": "Receive Sensor Readings",
               "id": 40
+            },
+            "4": {
+              "title": "Device discovery",
+              "id": 48
             }
           }
         }
@@ -36,8 +40,11 @@
           "id": 12,
           "ideas": {
             "1": {
-              "title": "Chip reset",
-              "id": 36
+              "title": "Hardware reset",
+              "id": 36,
+              "attr": {
+                "style": {}
+              }
             }
           }
         },
@@ -76,6 +83,51 @@
         "2": {
           "title": "Identified by MAC address",
           "id": 23
+        },
+        "3": {
+          "title": "Store in EEPROM",
+          "id": 49,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Push to web",
+          "id": 50
+        }
+      },
+      "attr": {
+        "position": [
+          158.90549344830754,
+          168.25244504994487,
+          1
+        ],
+        "style": {}
+      }
+    },
+    "4": {
+      "title": "Website",
+      "id": 51,
+      "attr": {
+        "position": [
+          154.60088205479565,
+          334.5180601243436,
+          2
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Hub registration",
+          "id": 52
+        },
+        "2": {
+          "title": "Device configuration",
+          "id": 53
+        },
+        "3": {
+          "title": "User management",
+          "id": 54
         }
       }
     },
@@ -111,10 +163,6 @@
                 }
               }
             },
-            "3": {
-              "title": "Discovery",
-              "id": 8
-            },
             "4": {
               "title": "Connectivity Status",
               "id": 16
@@ -131,6 +179,13 @@
                   "title": "Devices",
                   "id": 47
                 }
+              }
+            },
+            "6": {
+              "title": "Discovery",
+              "id": 8,
+              "attr": {
+                "style": {}
               }
             }
           }
