@@ -1,0 +1,88 @@
+{
+  "title": "Thing Innovations Hub",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Radio",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "LLAP",
+          "id": 10
+        }
+      }
+    },
+    "2": {
+      "title": "Buttons",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "Reset Hub",
+          "id": 12
+        },
+        "2": {
+          "title": "Learn Mode",
+          "id": 13
+        }
+      }
+    },
+    "3": {
+      "title": "Configuration",
+      "id": 20
+    },
+    "-1": {
+      "title": "Network",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Ethernet",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "DHCP",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Local IP",
+                  "id": 14
+                },
+                "2": {
+                  "title": "Local Gateway",
+                  "id": 15
+                }
+              }
+            },
+            "2": {
+              "title": "MQTT",
+              "id": 7
+            },
+            "3": {
+              "title": "Discovery",
+              "id": 8
+            },
+            "4": {
+              "title": "Connectivity Status",
+              "id": 16
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Data",
+      "id": 17,
+      "ideas": {
+        "1": {
+          "title": "Buffering",
+          "id": 18
+        },
+        "2": {
+          "title": "Formatting",
+          "id": 19
+        }
+      }
+    }
+  },
+  "links": []
+}
