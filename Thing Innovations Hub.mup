@@ -217,6 +217,13 @@
             "1": {
               "title": "Pulse when operating",
               "id": 29
+            },
+            "2": {
+              "title": "Change colour when new device found",
+              "id": 55,
+              "attr": {
+                "style": {}
+              }
             }
           }
         },
