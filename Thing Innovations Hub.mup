@@ -9,7 +9,21 @@
       "ideas": {
         "1": {
           "title": "LLAP",
-          "id": 10
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Receive STARTING",
+              "id": 38
+            },
+            "2": {
+              "title": "Send ACK",
+              "id": 39
+            },
+            "3": {
+              "title": "Receive Sensor Readings",
+              "id": 40
+            }
+          }
         }
       }
     },
@@ -19,11 +33,21 @@
       "ideas": {
         "1": {
           "title": "Reset Hub",
-          "id": 12
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Chip reset",
+              "id": 36
+            }
+          }
         },
         "2": {
-          "title": "Learn Mode",
+          "title": "Config Mode",
           "id": 13
+        },
+        "3": {
+          "title": "Other??",
+          "id": 35
         }
       }
     },
