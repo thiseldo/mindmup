@@ -62,6 +62,14 @@
             "1": {
               "title": "MQTT Host",
               "id": 24
+            },
+            "2": {
+              "title": "Sensors",
+              "id": 44
+            },
+            "3": {
+              "title": "Actuators",
+              "id": 45
             }
           }
         },
@@ -112,8 +120,18 @@
               "id": 16
             },
             "5": {
-              "title": "Register Hub",
-              "id": 21
+              "title": "Registration",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "Hub",
+                  "id": 46
+                },
+                "2": {
+                  "title": "Devices",
+                  "id": 47
+                }
+              }
             }
           }
         }
