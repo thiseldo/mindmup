@@ -108,6 +108,47 @@
           "id": 19
         }
       }
+    },
+    "-3": {
+      "title": "Indicators",
+      "id": 26,
+      "ideas": {
+        "1": {
+          "title": "RGB LED - PWM controlled",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "Pulse when operating",
+              "id": 29
+            }
+          }
+        },
+        "2": {
+          "title": "RGB LED",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "Indicate network status",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "RED - Not Connected",
+                  "id": 31,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Green - OK",
+                  "id": 33
+                },
+                "3": {
+                  "title": "Blue - Config in progress",
+                  "id": 34
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "links": []
