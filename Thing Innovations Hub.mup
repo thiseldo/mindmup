@@ -29,7 +29,23 @@
     },
     "3": {
       "title": "Configuration",
-      "id": 20
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "Config from web",
+          "id": 22,
+          "ideas": {
+            "1": {
+              "title": "MQTT Host",
+              "id": 24
+            }
+          }
+        },
+        "2": {
+          "title": "Identified by MAC address",
+          "id": 23
+        }
+      }
     },
     "-1": {
       "title": "Network",
@@ -55,7 +71,13 @@
             },
             "2": {
               "title": "MQTT",
-              "id": 7
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "Publish to topic based on unique MAC address",
+                  "id": 25
+                }
+              }
             },
             "3": {
               "title": "Discovery",
@@ -64,6 +86,10 @@
             "4": {
               "title": "Connectivity Status",
               "id": 16
+            },
+            "5": {
+              "title": "Register Hub",
+              "id": 21
             }
           }
         }
