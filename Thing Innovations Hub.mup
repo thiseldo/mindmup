@@ -81,7 +81,7 @@
           }
         },
         "2": {
-          "title": "Identified by MAC address",
+          "title": "Identified by MAC address obtained from EEPROM",
           "id": 23
         },
         "3": {
@@ -215,7 +215,7 @@
           "id": 27,
           "ideas": {
             "1": {
-              "title": "Pulse when operating",
+              "title": "Pulse slowly when operating",
               "id": 29
             },
             "2": {
@@ -224,6 +224,18 @@
               "attr": {
                 "style": {}
               }
+            },
+            "3": {
+              "title": "Red - Errors?",
+              "id": 56
+            },
+            "4": {
+              "title": "Green - New device",
+              "id": 57
+            },
+            "5": {
+              "title": "Blue - Normal",
+              "id": 58
             }
           }
         },
