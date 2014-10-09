@@ -3,28 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Database",
-      "id": 2,
-      "ideas": {
-        "1": {
-          "title": "User Role",
-          "id": 16
-        },
-        "2": {
-          "title": "Users",
-          "id": 17
-        },
-        "3": {
-          "title": "Hubs",
-          "id": 18
-        },
-        "4": {
-          "title": "Devices",
-          "id": 19
-        }
-      }
-    },
     "2": {
       "title": "Web front end",
       "id": 4,
@@ -74,12 +52,57 @@
       "ideas": {
         "1": {
           "title": "MQTT",
-          "id": 14
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Broker",
+              "id": 21
+            }
+          }
         },
         "2": {
           "title": "REST",
-          "id": 15
+          "id": 15,
+          "ideas": {}
         }
+      },
+      "attr": {
+        "position": [
+          177.5,
+          147,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "-0.5": {
+      "title": "Database",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "User Role",
+          "id": 16
+        },
+        "2": {
+          "title": "Users",
+          "id": 17
+        },
+        "3": {
+          "title": "Hubs",
+          "id": 18
+        },
+        "4": {
+          "title": "Devices",
+          "id": 19
+        }
+      },
+      "attr": {
+        "position": [
+          234.5,
+          -152,
+          1
+        ],
+        "style": {}
       }
     }
   }
