@@ -1,5 +1,68 @@
 {
   "title": " Thing Innovations Backend",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Database",
+      "id": 2
+    },
+    "2": {
+      "title": "Web front end",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Admin",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "User management",
+              "id": 7
+            },
+            "2": {
+              "title": "Hub Management",
+              "id": 8
+            },
+            "3": {
+              "title": "Device management",
+              "id": 9
+            }
+          }
+        },
+        "2": {
+          "title": "User",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Hub Registration",
+              "id": 10,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Device management",
+              "id": 11
+            },
+            "1.5": {
+              "title": "Hub management",
+              "id": 13
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Communications",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "MQTT",
+          "id": 14
+        },
+        "2": {
+          "title": "REST",
+          "id": 15
+        }
+      }
+    }
+  }
 }
