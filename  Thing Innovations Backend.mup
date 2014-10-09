@@ -5,7 +5,25 @@
   "ideas": {
     "1": {
       "title": "Database",
-      "id": 2
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "User Role",
+          "id": 16
+        },
+        "2": {
+          "title": "Users",
+          "id": 17
+        },
+        "3": {
+          "title": "Hubs",
+          "id": 18
+        },
+        "4": {
+          "title": "Devices",
+          "id": 19
+        }
+      }
     },
     "2": {
       "title": "Web front end",
