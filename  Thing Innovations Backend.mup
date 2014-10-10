@@ -47,9 +47,17 @@
       },
       "attr": {
         "style": {
-          "background": "#808000"
+          "background": "#0000ff"
         }
       }
+    },
+    "3": {
+      "title": "Data Storage",
+      "id": 23
+    },
+    "4": {
+      "title": "Data Presentation",
+      "id": 24
     },
     "-1": {
       "title": "Communications",
@@ -87,7 +95,7 @@
       "id": 2,
       "ideas": {
         "1": {
-          "title": "User Role",
+          "title": "User Roles",
           "id": 16
         },
         "2": {
@@ -101,6 +109,10 @@
         "4": {
           "title": "Devices",
           "id": 19
+        },
+        "5": {
+          "title": "Device Attributes",
+          "id": 22
         }
       },
       "attr": {
