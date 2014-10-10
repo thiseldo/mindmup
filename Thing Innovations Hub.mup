@@ -186,6 +186,26 @@
               "id": 8,
               "attr": {
                 "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "UPNP or MDNS",
+                  "id": 59
+                },
+                "2": {
+                  "title": "Landing Page",
+                  "id": 60,
+                  "ideas": {
+                    "1": {
+                      "title": "Show MAC Address",
+                      "id": 61
+                    },
+                    "2": {
+                      "title": "Link to Registration site",
+                      "id": 62
+                    }
+                  }
+                }
               }
             }
           }
