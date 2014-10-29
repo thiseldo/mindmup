@@ -54,7 +54,9 @@
     "3": {
       "title": "Data Storage",
       "id": 23,
-      "attr": {}
+      "attr": {
+        "style": {}
+      }
     },
     "4": {
       "title": "Data Presentation",
@@ -67,11 +69,34 @@
       },
       "attr": {
         "position": [
-          174,
-          154,
+          234,
+          71,
           3
         ],
         "style": {}
+      }
+    },
+    "5": {
+      "title": "Security",
+      "id": 32,
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "HMAC authentication of Hubs",
+          "id": 33
+        },
+        "2": {
+          "title": "Pre-Shared Key",
+          "id": 34
+        },
+        "3": {
+          "title": "Rolling Keys",
+          "id": 35
+        }
       }
     },
     "-1": {
@@ -157,6 +182,10 @@
         "2": {
           "title": "Configure Hub",
           "id": 30
+        },
+        "3": {
+          "title": "HMAC",
+          "id": 31
         }
       }
     }
