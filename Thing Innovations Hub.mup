@@ -246,7 +246,7 @@
               }
             },
             "3": {
-              "title": "Red - Errors?",
+              "title": "Red - Not Connected",
               "id": 56
             },
             "4": {
@@ -254,33 +254,22 @@
               "id": 57
             },
             "5": {
-              "title": "Blue - Normal",
+              "title": "Blue - New Device/Config in progress",
               "id": 58
             }
           }
         },
         "2": {
-          "title": "RGB LED",
-          "id": 28,
+          "title": "Ethernet",
+          "id": 63,
           "ideas": {
             "1": {
-              "title": "Indicate network status",
-              "id": 30,
-              "ideas": {
-                "1": {
-                  "title": "RED - Not Connected",
-                  "id": 31,
-                  "ideas": {}
-                },
-                "2": {
-                  "title": "Green - OK",
-                  "id": 33
-                },
-                "3": {
-                  "title": "Blue - Config in progress",
-                  "id": 34
-                }
-              }
+              "title": "Green - Link up",
+              "id": 64
+            },
+            "2": {
+              "title": "Orange - traffic",
+              "id": 65
             }
           }
         }
