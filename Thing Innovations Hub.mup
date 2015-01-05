@@ -274,6 +274,21 @@
           }
         }
       }
+    },
+    "-4": {
+      "title": "Security",
+      "id": 66,
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Crypto Auth chip",
+          "id": 67
+        }
+      }
     }
   },
   "links": []
