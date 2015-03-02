@@ -1,5 +1,19 @@
 {
   "title": "OpenPi Hub",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Discovery",
+      "id": 2
+    },
+    "2": {
+      "title": "Security",
+      "id": 4
+    },
+    "-1": {
+      "title": "Connectivity",
+      "id": 3
+    }
+  }
 }
